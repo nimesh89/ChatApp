@@ -1,4 +1,4 @@
-# E2
+# ChatApp
 A Simple, Scalable and Easy starting point for full stack web development using JavaScript and Elm.
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
